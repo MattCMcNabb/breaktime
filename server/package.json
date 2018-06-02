@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "0.0.0",
+  "description": "The Server to run the breaktime App",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matt McNabb",
+  "license": "ISC"
+}
